@@ -1,9 +1,6 @@
 # role-permission
 ## Laravel Roles Permissions Admin - Spatie version
 
-__Update October 2019__: this project was created in 2017 as Laravel 5.4 version, and now we upgraded it to Laravel 6 version, also changed the design theme from [AdminLTE](https://adminlte.io/) to [CoreUI](https://coreui.io)
-
-- - - - -
 
 This is a Laravel 6 adminpanel starter project with roles-permissions management based on [Spatie Laravel-permission package](https://github.com/spatie/laravel-permission), [CoreUI](https://coreui.io) and [Datatables.net](https://datatables.net).
 
