@@ -2,12 +2,6 @@
 ## Laravel Roles Permissions Admin - Spatie version
 
 
-This is a Laravel 6 adminpanel starter project with roles-permissions management based on [Spatie Laravel-permission package](https://github.com/spatie/laravel-permission), [CoreUI](https://coreui.io) and [Datatables.net](https://datatables.net).
-
-
-Part of this project was generated automatically by [QuickAdminPanel system](https://quickadminpanel.com/).
-
-
 ## Usage
 
 This is not a package - it's a full Laravel project that you should use as a starter boilerplate, and then add your own custom functionality.
@@ -23,10 +17,3 @@ This boilerplate has one role (`administrator`), one permission (`users_manage`)
 
 With that user you can create more roles/permissions/users, and then use them in your code, by using functionality like `Gate` or `@can`, as in default Laravel, or with help of Spatie's package methods.
 
-
-
-## Notice
-
-We are not responsible for any functionality or bugs in **CoreUI**, **Laravel-permission** or **Datatables** packages or their future versions, if you find bugs there.
-
----
